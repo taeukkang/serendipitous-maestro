@@ -154,7 +154,7 @@ export default function Home() {
     <Container maxW="container.lg" pt={5}>
       <VStack>
         <HStack justify="center">
-          <Image src="/logo.jpg" alt="logo" width="50px" height="50px" borderRadius='full' />
+          <Image src="/serendipitous-maestro/logo.jpg" alt="logo" width="50px" height="50px" borderRadius='full' />
           <Heading>The Serendipitous Maestro</Heading>
         </HStack>
         <HStack>

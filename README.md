@@ -10,7 +10,7 @@ The Serendipitous Maestro is an interactive music synthesizer that generates not
 > This project won the Bronze Award in Stanford's CS109 Challenge in Spring 2023.
 
 ## Demonstration
-Launch the web app to make your own music: [https://projects.taeuk.me/serendipitous-maestro](https://projects.taeuk.me/serendipitous-maestro).
+Launch the web app to make your own music: [https://projects.taeuk.net/serendipitous-maestro](https://projects.taeuk.net/serendipitous-maestro).
 A recorded [video demonstration](https://youtu.be/hteezOCheBU) is also available.
 
 ## Getting Started
